@@ -21,4 +21,5 @@ _testmain.go
 
 *.exe
 
-src/github.com
+pkg/
+bin/

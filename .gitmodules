@@ -1,0 +1,9 @@
+[submodule "src/github.com/dizzyd/gogotelehash"]
+	path = src/github.com/dizzyd/gogotelehash
+	url = git://github.com/dizzyd/gogotelehash
+[submodule "src/github.com/gokyle/ecdh"]
+	path = src/github.com/gokyle/ecdh
+	url = git://github.com/gokyle/ecdh
+[submodule "src/github.com/GeertJohan/go.linenoise"]
+	path = src/github.com/GeertJohan/go.linenoise
+	url = git://github.com/GeertJohan/go.linenoise
